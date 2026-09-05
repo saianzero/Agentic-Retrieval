@@ -1,0 +1,21 @@
+SERVICE AGREEMENT — ACME-2463
+
+This Service Agreement ("Agreement") is entered into between Acme Corp ("Client") and Vendor Inc ("Vendor").
+
+1. Term
+This Agreement shall commence on the Effective Date and continue for a period of twelve (12) months, unless terminated earlier in accordance with Section 5.
+
+2. Payment Terms
+Client shall pay Vendor within 30 days of receipt of each invoice. Late payments accrue interest at 1.5% per month. All invoices must reference contract number ACME-2463.
+
+3. Scope of Services
+Vendor shall provide software maintenance and support services as described in Exhibit A. Support requests will be acknowledged within 4 business hours.
+
+4. Confidentiality
+Both parties agree to keep confidential all non-public information disclosed during the term of this Agreement, for a period of three (3) years following termination.
+
+5. Termination
+Either party may terminate this Agreement with 60 days written notice. Upon termination, Client shall pay for all services rendered up to the termination date.
+
+6. Limitation of Liability
+Vendor's total liability under this Agreement shall not exceed the total fees paid by Client in the preceding twelve (12) months.
