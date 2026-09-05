@@ -1,0 +1,5 @@
+qdrant-client>=1.10
+numpy>=1.26
+openai>=1.40
+rank_bm25>=0.2.2
+cohere>=5.0
